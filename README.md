@@ -2,6 +2,8 @@
 
 Système de reconnaissance automatique de la langue des signes en temps réel utilisant les réseaux de neurones convolutifs (CNN).
 
+**Présenté par :** Imane Hamraoui & Maroua Lhassouani  
+**Encadré par :** Pr. MOUMOUN Lahcen  
 **Année :** 2026
 
 ## Description
@@ -58,7 +60,14 @@ Sign-language-detection/
 Le dataset contient environ 2500-3000 images :
 - 28 classes (10 chiffres + 13 lettres + 5 actions)
 - Images 64x64 pixels en niveaux de gris
-- Non inclus dans le dépôt (trop volumineux)
+- 60 à 113 images par classe
+
+⚠️ **Le dataset n'est pas inclus dans ce dépôt GitHub (trop volumineux).**
+
+📥 **Télécharger le dataset :**  
+[Cliquez ici pour télécharger le dataset complet sur OneDrive](c:\Users\marwa_litxmy9\OneDrive\DataSet)
+
+Après téléchargement, décompressez le dossier `DataSet/` à la racine du projet.
 
 ## Auteurs
 
@@ -66,3 +75,6 @@ Le dataset contient environ 2500-3000 images :
 - Maroua Lhassouani
 
 Encadré par : Pr. MOUMOUN Lahcen
+
+
+

@@ -1,0 +1,23 @@
+# Dataset (trop volumineux pour GitHub)
+DataSet/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
